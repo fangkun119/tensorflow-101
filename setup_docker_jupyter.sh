@@ -3,7 +3,8 @@
 # install docker first
 # run docker in Mac: "Docker is running"
 
-docker pull tensorflow/tensorflow:nightly-jupyter
+docker pull tensorflow/tensorflow:latest-py3-jupyter-101libs
+# docker pull tensorflow/tensorflow:latest-py3-jupyter
 
 # docker pull tensorflow/tensorflow:latest-jupyter
 # docker pull tensorflow/tensorflow:latest-py3-jupyter
