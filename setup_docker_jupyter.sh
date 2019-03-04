@@ -3,7 +3,7 @@
 # install docker first
 # run docker in Mac: "Docker is running"
 
-docker pull azurevolition/tensorflow:latest-py3-jupyter-101libs
+docker pull azurevolition/tensorflow:latest-py3-jupyter-lib
 # docker pull tensorflow/tensorflow:latest-py3-jupyter
 
 # docker pull tensorflow/tensorflow:latest-jupyter
