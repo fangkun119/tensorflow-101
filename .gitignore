@@ -1,7 +1,6 @@
 venv27
 venv37
+notebook-examples/chapter-4/summary
+notebook-examples/chapter-6/train-data
+notebook-examples/chapter-6/test-data
 **/.ipynb_checkpoints
-notebook-examples/chapter-4/summary/
-notebook-examples/chapter-6/**/*.png
-notebook-examples/chapter-6/train-data/*
-notebook-examples/chapter-6/test-data/*
