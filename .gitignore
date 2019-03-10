@@ -1,6 +1,7 @@
 venv27
 venv37
 notebook-examples/chapter-4/summary
+notebook-examples/chapter-5/mnist/model/keras_mnist.h5
 notebook-examples/chapter-6/train-data
 notebook-examples/chapter-6/test-data
 **/.ipynb_checkpoints
